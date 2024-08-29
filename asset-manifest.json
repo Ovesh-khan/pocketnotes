@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pocketnotes/static/css/main.d8e22a72.css",
+    "main.js": "/pocketnotes/static/js/main.88a1e709.js",
+    "static/js/453.918b8093.chunk.js": "/pocketnotes/static/js/453.918b8093.chunk.js",
+    "index.html": "/pocketnotes/index.html",
+    "main.d8e22a72.css.map": "/pocketnotes/static/css/main.d8e22a72.css.map",
+    "main.88a1e709.js.map": "/pocketnotes/static/js/main.88a1e709.js.map",
+    "453.918b8093.chunk.js.map": "/pocketnotes/static/js/453.918b8093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e22a72.css",
+    "static/js/main.88a1e709.js"
+  ]
+}
